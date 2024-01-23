@@ -1,0 +1,43 @@
+header{
+    background-color:purple ;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  header p{
+    animation: normal;
+  }
+body{
+    text-align: center;
+}
+div ul{
+   list-style: none;
+}
+img {
+    height: 150px;
+    width: 150px;
+}
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: left ;
+    padding: 5px;
+}
+ul form{
+    float: left;
+}
+footer{
+    width: 100%;
+    color: aliceblue;
+    float: inline-end;
+    background-color:purple ;
+}
+h3{
+    text-decoration: underline;
+}
+li p{
+    background-color: purple;
+    color: white;
+}
+#form1{
+    float: right;
+    text-align: right;
+}
